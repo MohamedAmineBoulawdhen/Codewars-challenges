@@ -14,7 +14,7 @@ It's important to note that some points are automatically given for ranking up a
 A complete explanation of the points system can be found [here](https://docs.codewars.com/gamification/).
 
 ## Time Complexity
-The time required to complete the checkpoint will vary based on your skills and the problems you choose to solve.
+The time required to complete these challenges will vary based on your skills and the problems you choose to solve (took me two days).
 
 ## Conclusion
 This challenge is a great opportunity to solidify your understanding of basic concepts and to challenge yourself by solving more advanced problems. Good luck!
