@@ -1,4 +1,4 @@
-//https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+//https://www.codewars.com/dashboard
 //try your own
 //Ctrl+F -> Search for a specific problem
 //Vowel Count
